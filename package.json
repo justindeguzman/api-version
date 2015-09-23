@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/justindeguzman/api-version"
+    "url": "https://github.com/justindeguzman/api-version.git"
   },
   "author": "Justin de Guzman <justin@justindeguzman.net> (http://justindeguzman.net)",
   "license": "MIT",
