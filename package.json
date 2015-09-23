@@ -1,0 +1,19 @@
+{
+  "name": "api-version",
+  "version": "0.0.1",
+  "description": "Enforce API version via ExpressJS middleware.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justindeguzman/api-version"
+  },
+  "author": "Justin de Guzman <justin@justindeguzman.net> (http://justindeguzman.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justindeguzman/api-version/issues"
+  },
+  "homepage": "https://github.com/justindeguzman/api-version"
+}
